@@ -12,15 +12,5 @@ public class Main {
            result = result+i;
            System.out.print("@");
        }
-        //System.out.print("@");
-
-
-
-
-       //int result = 0;
-       //for (int i =1;i<=100;i++){
-       //result=result+i;
-       // }
-       // System.out.println(result);
-    }
+     }
 }
